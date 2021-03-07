@@ -12,11 +12,14 @@ images). The following info is mandatory:
 
 ## Results
 
+The screenshot of the program:
+
 ![Screenshot of the program](Screenshot.png)
 
 The program shows the fetching time every time you open a new folder via `MessageBox`.
 
 The results of the speed test (642 `jpeg` files, ~2.75 GB):
+
 ![Benchmark results](Benchmark-Screenshot.png)
 
 ## Requirements
