@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25ea12a3-2e9a-42c1-a90c-33a726955a05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oyOHE0m8kHmFl4TGWsb94uZskY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiaomi\go\src\graphics-lab-2\bin" />
+      <recent name="C:\Users\Xiaomi\go\src\graphics-lab-2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiaomi\go\src\graphics-lab-2" />
+      <recent name="C:\Users\Xiaomi\go\src\graphics-lab-2\bin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="graphics-lab-2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i -o bin/lab2.exe -ldflags=&quot;-H windowsgui&quot;" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="graphics-lab-2" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="301" key="#Go" timestamp="1615141560798">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="811" y="301" key="#Go/67.0.1853.1080@67.0.1853.1080" timestamp="1615141560798" />
+    <state x="199" y="225" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615146117279">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="199" y="225" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1615146117279" />
+    <state x="284" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615150501543">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="284" y="342" key="#com.intellij.fileTypes.FileTypeChooser/67.0.1853.1080@67.0.1853.1080" timestamp="1615150501543" />
+    <state x="514" y="412" key="#com.intellij.tools.ToolEditorDialog" timestamp="1614944169676">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="514" y="412" key="#com.intellij.tools.ToolEditorDialog/67.0.1853.1080@67.0.1853.1080" timestamp="1614944169676" />
+    <state x="1236" y="295" key="FileChooserDialogImpl" timestamp="1614610078184">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="1236" y="295" key="FileChooserDialogImpl/67.0.1853.1080@67.0.1853.1080" timestamp="1614610078184" />
+    <state width="883" height="282" key="GridCell.Tab.0.bottom" timestamp="1615150603238">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="883" height="282" key="GridCell.Tab.0.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1615150603238" />
+    <state width="883" height="282" key="GridCell.Tab.0.center" timestamp="1615150603238">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="883" height="282" key="GridCell.Tab.0.center/67.0.1853.1080@67.0.1853.1080" timestamp="1615150603238" />
+    <state width="883" height="282" key="GridCell.Tab.0.left" timestamp="1615150603238">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="883" height="282" key="GridCell.Tab.0.left/67.0.1853.1080@67.0.1853.1080" timestamp="1615150603238" />
+    <state width="883" height="282" key="GridCell.Tab.0.right" timestamp="1615150603238">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="883" height="282" key="GridCell.Tab.0.right/67.0.1853.1080@67.0.1853.1080" timestamp="1615150603238" />
+    <state width="880" height="366" key="GridCell.Tab.1.bottom" timestamp="1615149319377">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="880" height="366" key="GridCell.Tab.1.bottom/67.0.1853.1080@67.0.1853.1080" timestamp="1615149319377" />
+    <state width="880" height="366" key="GridCell.Tab.1.center" timestamp="1615149319377">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="880" height="366" key="GridCell.Tab.1.center/67.0.1853.1080@67.0.1853.1080" timestamp="1615149319377" />
+    <state width="880" height="366" key="GridCell.Tab.1.left" timestamp="1615149319377">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="880" height="366" key="GridCell.Tab.1.left/67.0.1853.1080@67.0.1853.1080" timestamp="1615149319377" />
+    <state width="880" height="366" key="GridCell.Tab.1.right" timestamp="1615149319377">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state width="880" height="366" key="GridCell.Tab.1.right/67.0.1853.1080@67.0.1853.1080" timestamp="1615149319377" />
+    <state x="640" y="317" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1614944171325">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="640" y="317" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/67.0.1853.1080@67.0.1853.1080" timestamp="1614944171325" />
+    <state x="656" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1614606775485">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="656" y="235" width="672" height="678" key="search.everywhere.popup/67.0.1853.1080@67.0.1853.1080" timestamp="1614606775485" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/imaging/imaging.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
